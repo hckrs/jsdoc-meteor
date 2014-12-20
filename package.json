@@ -1,0 +1,15 @@
+{
+  "name": "jsdoc-meteor",
+  "author": "Jarno Le Conté",
+  "version": "0.1.0",
+  "description": "Run JSDoc as node module within Meteor.",
+  "repository": "/* fill in */",
+  "main": "jsdoc.js",
+  "keywords": [],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "jsdoc": "3.3.0-alpha7"
+  }
+}
